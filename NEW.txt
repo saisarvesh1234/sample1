@@ -7,4 +7,4 @@ git clone --recursive https://github.com/nesancommitter/All_Notes_to_Share.git
 
 
 git config --global init.defaultBranch main
-
+file 0
